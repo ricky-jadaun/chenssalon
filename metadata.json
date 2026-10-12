@@ -1,0 +1,6 @@
+{
+  "name": "Chen's Hair & Beauty Salon",
+  "description": "Luxury unisex hair and beauty salon in Mumbai founded by Annie Chen in 1997. Pioneers in Hair Rebonding, master styling, organic skin rituals, and bridal makeovers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
